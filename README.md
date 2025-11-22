@@ -9,6 +9,8 @@ Why should you use this executor?
 
 discord : https://discord.com/invite/9UXEHwZAr9
 
+Download latest ->
+
 Happy Modding,
 
 -Fd4wg
