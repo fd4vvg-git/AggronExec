@@ -7,7 +7,7 @@ Why should you use this executor?
 -Pre-built tools Like the popular Dex Explorer++ and Turtle Spy, built right into the UI. 🛠️ 
 -Weekly Minor updates like UI changes and added features. 🌐 
 
-If you like how this sounds, click the discord invite in my bio to join the newly opened community, where you will have access to the executor, and support for our service.
+discord : https://discord.com/invite/9UXEHwZAr9
 
 Happy Modding,
 
